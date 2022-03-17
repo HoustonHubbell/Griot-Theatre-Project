@@ -1,0 +1,91 @@
+body, html{
+    background-image: "griot_theatre";
+    background-color: bisque;
+}
+
+nav li{
+    display: inline;
+    margin-right: 10%;
+    text-decoration: none;
+}
+
+nav ul{
+    background-color: burlywood;
+    margin: 0%;
+    height: 30px;
+    text-decoration: none;
+}
+
+#featured-shows{
+    text-align: center;
+}
+
+#griot-image{
+    height: 30%;
+    width: 100%;
+}
+
+.grid-container{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.row-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: burlywood;
+    text-align: center;
+}
+.row-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: burlywood;
+    text-align: center;
+}
+.row-3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: burlywood;
+    text-align: center;
+}
+.row-4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: orange;
+    border-radius: 100%;
+}
+#date{
+    text-align: center;
+    background-color: burlywood;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h3{
+    margin-right: 20%;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    background-color: burlywood;
+    align-items: center;
+    padding-top: 5%;
+    text-align: center;
+    padding-left: 17%;
+    padding-right: 17%;
+    font-size: smaller;
+}
+
+
